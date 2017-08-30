@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9631.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9632.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9633.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9634.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9635.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9636.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9637.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9638.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9639.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9640.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9641.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9642.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9643.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9644.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9645.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9646.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9647.png",
+        "color": "#c72",
+        "uri": "ochre"
+    },
+    {
+        "name": "Ochre",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9648.png",
+        "color": "#c72",
+        "uri": "ochre"
+    }
+]

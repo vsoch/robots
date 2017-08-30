@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7327.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7328.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7329.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7330.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7331.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7332.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7333.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7334.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7335.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7336.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7337.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7338.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7339.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7340.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7341.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7342.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7343.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    },
+    {
+        "name": "Lava",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7344.png",
+        "color": "#cf1020",
+        "uri": "lava"
+    }
+]

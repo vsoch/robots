@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14707.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14708.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14709.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14710.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14711.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot14712.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot14713.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot14714.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot14715.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot14716.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot14717.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot14718.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot14719.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14720.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14721.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14722.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14723.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    },
+    {
+        "name": "Upsdell Red",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14724.png",
+        "color": "#ae2029",
+        "uri": "upsdell_red"
+    }
+]

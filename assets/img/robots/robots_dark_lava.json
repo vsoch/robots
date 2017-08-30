@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3889.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3890.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3891.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3892.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3893.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3894.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3895.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3896.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3897.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3898.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3899.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3900.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3901.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3902.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3903.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3904.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3905.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    },
+    {
+        "name": "Dark Lava",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3906.png",
+        "color": "#483c32",
+        "uri": "dark_lava"
+    }
+]

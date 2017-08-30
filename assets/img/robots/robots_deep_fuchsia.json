@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4591.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4592.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4593.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4594.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4595.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4596.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4597.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4598.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4599.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4600.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4601.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4602.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4603.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4604.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4605.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4606.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4607.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    },
+    {
+        "name": "Deep Fuchsia",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4608.png",
+        "color": "#c154c1",
+        "uri": "deep_fuchsia"
+    }
+]

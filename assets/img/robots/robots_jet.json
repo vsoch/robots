@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7075.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7076.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7077.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7078.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7079.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7080.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7081.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7082.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7083.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7084.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7085.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7086.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7087.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7088.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7089.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7090.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7091.png",
+        "color": "#343434",
+        "uri": "jet"
+    },
+    {
+        "name": "Jet",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7092.png",
+        "color": "#343434",
+        "uri": "jet"
+    }
+]

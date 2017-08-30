@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8893.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8894.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8895.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8896.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8897.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8898.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8899.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8900.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8901.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8902.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8903.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8904.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8905.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8906.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8907.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8908.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8909.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    },
+    {
+        "name": "Medium Slate Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8910.png",
+        "color": "#7b68ee",
+        "uri": "medium_slate_blue"
+    }
+]

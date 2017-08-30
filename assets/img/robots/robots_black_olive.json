@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1009.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1010.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1011.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1012.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1013.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1014.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1015.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1016.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1017.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1018.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1019.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1020.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1021.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1022.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1023.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1024.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1025.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    },
+    {
+        "name": "Black Olive",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1026.png",
+        "color": "#3b3c36",
+        "uri": "black_olive"
+    }
+]

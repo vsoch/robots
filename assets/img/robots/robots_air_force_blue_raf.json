@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot16.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot17.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    },
+    {
+        "name": "Air Force Blue (Raf)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot18.png",
+        "color": "#5d8aa8",
+        "uri": "air_force_blue_raf"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13987.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13988.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13989.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13990.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13991.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13992.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13993.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13994.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13995.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13996.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13997.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13998.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13999.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14000.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14001.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14002.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14003.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    },
+    {
+        "name": "Terra Cotta",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14004.png",
+        "color": "#e2725b",
+        "uri": "terra_cotta"
+    }
+]

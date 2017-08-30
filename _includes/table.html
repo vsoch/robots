@@ -1,0 +1,102 @@
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">  
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>
+
+<!-- Jumbotron -->
+<div id="jumbotron" class="jumbotron">
+  <div class="container">
+    <h1 class="lobster-font">Random Road</h1>
+    <p><a class="btn btn-lg btn-theme" href="{{ page.base }}" role="button">Learn more</a></p>
+  </div>
+</div>
+
+<!-- Content -->
+<div class="container">
+  <table class="table table-striped">
+    <!--   Table head   -->
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Container</th>
+        <th>Name</th>
+        <th>Tag</th>
+        <th>Pull</th>
+      </tr>
+    </thead>
+    <!--   Table body   -->
+    <tbody class="ajax-content">
+
+    </tbody>
+  </table>
+
+  <!--  Pagination  -->
+  <nav class="pagination" aria-label="Page navigation" style="display:none" class="text-center">
+    <ul class="pagination" style="display:none" id='pagination'>      
+    </ul>
+  </nav>
+
+</div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>
+<script>
+//Filling table for page 1
+loadData();
+
+// Event handler
+$('.pagination > li').on("click", function() {
+  var _url = $(this).attr('data-url');
+  loadData(_url);
+})
+
+// Function declaration
+function loadData(_url) {
+  this.url = _url || '{{ page.base }}/api/collections/?format=json&page=1';
+
+  $('.ajax-content').empty();
+
+  $.ajax({
+    url: this.url,
+    dataType: 'json',
+    success: function(data) {
+      console.log(data);
+      var count = 1;
+      for (var i = 0; i < data.results.length; i++) {
+        var collection = data.results[i]
+        var containers = collection.containers
+        for (var j = 0; j < containers.length; j++) {
+            $('.ajax-content').append('<tr>' +
+                '<td>'+count+'</td>' +
+                '<td><a href="' + containers[j].detail + '" target="_blank">' + containers[j].uri + '</a></td>' +
+                '<td>' + containers[j].name + '</td>' +
+                '<td>' + containers[j].tag + '</td>' +
+                '<td class="toggler"><a>singularity pull shub://{{ page.base | replace:'http://','' | replace:'https://','' }}/' + containers[j].uri +'</a><button class="btn btn-theme">Show command</button></td>' +
+          '</tr>')
+          count+=1;
+          }
+
+      }
+      // Do we have a next page?
+      if (data.previous != null) {
+         $("#pagination").append('<li data-url="' + data.previous + '><a href="'+ data.previos +'"> Previous </a></li>')
+         $(".pagination").show();
+      }
+
+      if (data.next != null) {
+         $("#pagination").append('<li data-url="' + data.next + '><a href="'+ data.next +'"> Next </a></li>')
+         $(".pagination").show();
+      } 
+
+      //Hidding all emails
+      $('.ajax-content .toggler a').each(function() {
+        $(this).hide();
+      });
+
+      //Toggler to show email on click
+      $('.ajax-content .toggler button').on("click", function() {
+        $(this).hide();
+        $(this).siblings('a').show();
+      })
+    }
+  });
+}
+</script>

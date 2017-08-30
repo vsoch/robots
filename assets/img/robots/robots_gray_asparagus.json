@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6157.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6158.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6159.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6160.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6161.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6162.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6163.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6164.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6165.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6166.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6167.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6168.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6169.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6170.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6171.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6172.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6173.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    },
+    {
+        "name": "Gray-Asparagus",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6174.png",
+        "color": "#465945",
+        "uri": "gray_asparagus"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7039.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7040.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7041.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7042.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7043.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7044.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7045.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7046.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7047.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7048.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7049.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7050.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7051.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7052.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7053.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7054.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7055.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    },
+    {
+        "name": "Jasper",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7056.png",
+        "color": "#d73b3e",
+        "uri": "jasper"
+    }
+]

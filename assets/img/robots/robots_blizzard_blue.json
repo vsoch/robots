@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1081.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1082.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1083.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1084.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1085.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1086.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1087.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1088.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1089.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1090.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1091.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1092.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1093.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1094.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1095.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1096.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1097.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    },
+    {
+        "name": "Blizzard Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1098.png",
+        "color": "#ace5ee",
+        "uri": "blizzard_blue"
+    }
+]

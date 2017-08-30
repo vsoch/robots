@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6103.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6104.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6105.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6106.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6107.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6108.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6109.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6110.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6111.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6112.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6113.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6114.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6115.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6116.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6117.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6118.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6119.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    },
+    {
+        "name": "Goldenrod",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6120.png",
+        "color": "#daa520",
+        "uri": "goldenrod"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9199.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9200.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9201.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9202.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9203.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9204.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9205.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9206.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9207.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9208.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9209.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9210.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9211.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9212.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9213.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9214.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9215.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    },
+    {
+        "name": "Misty Rose",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9216.png",
+        "color": "#ffe4e1",
+        "uri": "misty_rose"
+    }
+]

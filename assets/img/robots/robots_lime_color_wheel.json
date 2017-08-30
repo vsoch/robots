@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8083.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8084.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8085.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8086.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8087.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8088.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8089.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8090.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8091.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8092.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8093.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8094.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8095.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8096.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8097.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8098.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8099.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    },
+    {
+        "name": "Lime (Color Wheel)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8100.png",
+        "color": "#bfff00",
+        "uri": "lime_color_wheel"
+    }
+]

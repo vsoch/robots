@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5905.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5906.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5907.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5908.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5909.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5910.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5911.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5912.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5913.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5914.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5915.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5916.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5917.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5918.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5919.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5920.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5921.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    },
+    {
+        "name": "Gainsboro",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5922.png",
+        "color": "#dcdcdc",
+        "uri": "gainsboro"
+    }
+]

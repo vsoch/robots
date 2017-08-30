@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% include robots.html %}
+
+<span class="note">What color robot would you like today?</span>
+    <div class="portfolio-centered">
+        <h3 id="name-box" style="margin-top:0px; color:#333"></h3>
+        <div class="recentitems portfolio">
+            {% for color in site.data.colors %}
+            <div class="color-grid" 
+                 data-id="{{ color.identifier }}"
+                 data-name="{{ color.color_name }}"
+                 data-color="{{ color.code }}"
+                 style="width:100px; height:100px;background-color:{{ color.code }}" 
+                 title="{{color.color_name}}"></div>
+            {% endfor %}
+        </div>
+    </div>
+
+{% include main.html %}

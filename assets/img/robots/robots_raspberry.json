@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11755.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11756.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11757.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11758.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11759.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11760.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11761.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11762.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11763.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11764.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11765.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11766.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11767.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11768.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11769.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11770.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11771.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    },
+    {
+        "name": "Raspberry",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11772.png",
+        "color": "#e30b5d",
+        "uri": "raspberry"
+    }
+]

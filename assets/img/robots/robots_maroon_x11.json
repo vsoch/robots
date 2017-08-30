@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8533.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8534.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8535.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8536.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8537.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8538.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8539.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8540.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8541.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8542.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8543.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8544.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8545.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8546.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8547.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8548.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8549.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    },
+    {
+        "name": "Maroon (X11)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8550.png",
+        "color": "#b03060",
+        "uri": "maroon_x11"
+    }
+]

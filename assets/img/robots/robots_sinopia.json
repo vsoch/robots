@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13339.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13340.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13341.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13342.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13343.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13344.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13345.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13346.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13347.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13348.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13349.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13350.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13351.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot13352.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot13353.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot13354.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot13355.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    },
+    {
+        "name": "Sinopia",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot13356.png",
+        "color": "#cb410b",
+        "uri": "sinopia"
+    }
+]

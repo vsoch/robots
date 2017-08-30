@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1693.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1694.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1695.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1696.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1697.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1698.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1699.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1700.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1701.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1702.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1703.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1704.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1705.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1706.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1707.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1708.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1709.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    },
+    {
+        "name": "Bronze",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1710.png",
+        "color": "#cd7f32",
+        "uri": "bronze"
+    }
+]

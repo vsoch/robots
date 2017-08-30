@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot793.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot794.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot795.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot796.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot797.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot798.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot799.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot800.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot801.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot802.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot803.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot804.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot805.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot806.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot807.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot808.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot809.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    },
+    {
+        "name": "Bazaar",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot810.png",
+        "color": "#98777b",
+        "uri": "bazaar"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9865.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9866.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9867.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9868.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9869.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9870.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9871.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9872.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9873.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9874.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9875.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9876.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9877.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9878.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9879.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9880.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9881.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    },
+    {
+        "name": "Orange (Color Wheel)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9882.png",
+        "color": "#ff7f00",
+        "uri": "orange_color_wheel"
+    }
+]

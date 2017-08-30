@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3313.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3314.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3315.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3316.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3317.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3318.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3319.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3320.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3321.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3322.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3323.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3324.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3325.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3326.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3327.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3328.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3329.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    },
+    {
+        "name": "Coral",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3330.png",
+        "color": "#ff7f50",
+        "uri": "coral"
+    }
+]

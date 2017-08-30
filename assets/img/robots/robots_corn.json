@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3385.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3386.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3387.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3388.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3389.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3390.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3391.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3392.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3393.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3394.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3395.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3396.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3397.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3398.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3399.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3400.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3401.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    },
+    {
+        "name": "Corn",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3402.png",
+        "color": "#fbec5d",
+        "uri": "corn"
+    }
+]

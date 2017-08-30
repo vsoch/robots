@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot775.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot776.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot777.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot778.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot779.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot780.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot781.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot782.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot783.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot784.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot785.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot786.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot787.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot788.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot789.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot790.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot791.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    },
+    {
+        "name": "Battleship Grey",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot792.png",
+        "color": "#848482",
+        "uri": "battleship_grey"
+    }
+]

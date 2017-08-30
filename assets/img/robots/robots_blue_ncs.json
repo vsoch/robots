@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1225.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1226.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1227.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1228.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1229.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1230.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1231.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1232.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1233.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1234.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1235.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1236.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1237.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1238.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1239.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1240.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1241.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    },
+    {
+        "name": "Blue (Ncs)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1242.png",
+        "color": "#0087bd",
+        "uri": "blue_ncs"
+    }
+]

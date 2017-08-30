@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8587.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8588.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8589.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8590.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8591.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8592.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8593.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8594.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8595.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8596.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8597.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8598.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8599.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8600.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8601.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8602.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8603.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    },
+    {
+        "name": "Mauvelous",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8604.png",
+        "color": "#ef98aa",
+        "uri": "mauvelous"
+    }
+]

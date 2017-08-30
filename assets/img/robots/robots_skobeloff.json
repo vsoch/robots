@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13357.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13358.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13359.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13360.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13361.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13362.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13363.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13364.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13365.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13366.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13367.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13368.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13369.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot13370.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot13371.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot13372.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot13373.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    },
+    {
+        "name": "Skobeloff",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot13374.png",
+        "color": "#007474",
+        "uri": "skobeloff"
+    }
+]

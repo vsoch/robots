@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot15499.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot15500.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot15501.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot15502.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot15503.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot15504.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot15505.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot15506.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot15507.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot15508.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot15509.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot15510.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot15511.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot15512.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15513.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot15514.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot15515.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    },
+    {
+        "name": "Yellow (Process)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot15516.png",
+        "color": "#ffef00",
+        "uri": "yellow_process"
+    }
+]

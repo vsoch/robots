@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5365.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5366.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5367.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5368.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5369.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5370.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5371.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5372.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5373.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5374.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5375.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5376.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5377.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5378.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5379.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5380.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5381.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    },
+    {
+        "name": "Fawn",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5382.png",
+        "color": "#e5aa70",
+        "uri": "fawn"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot397.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot398.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot399.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot400.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot401.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot402.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot403.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot404.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot405.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot406.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot407.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot408.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot409.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot410.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot411.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot412.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot413.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    },
+    {
+        "name": "Aqua",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot414.png",
+        "color": "#0ff",
+        "uri": "aqua"
+    }
+]

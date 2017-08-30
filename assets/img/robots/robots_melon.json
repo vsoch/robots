@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9073.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9074.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9075.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9076.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9077.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9078.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9079.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9080.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9081.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9082.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9083.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9084.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9085.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9086.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9087.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9088.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9089.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    },
+    {
+        "name": "Melon",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9090.png",
+        "color": "#fdbcb4",
+        "uri": "melon"
+    }
+]

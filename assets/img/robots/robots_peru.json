@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11143.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11144.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11145.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11146.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11147.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11148.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11149.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11150.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11151.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11152.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11153.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11154.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11155.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11156.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11157.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11158.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11159.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    },
+    {
+        "name": "Peru",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11160.png",
+        "color": "#cd853f",
+        "uri": "peru"
+    }
+]

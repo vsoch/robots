@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3853.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3854.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3855.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3856.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3857.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3858.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3859.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3860.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3861.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3862.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3863.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3864.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3865.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3866.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3867.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3868.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3869.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    },
+    {
+        "name": "Dark Jungle Green",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3870.png",
+        "color": "#1a2421",
+        "uri": "dark_jungle_green"
+    }
+]

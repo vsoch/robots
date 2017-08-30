@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5815.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5816.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5817.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5818.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5819.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5820.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5821.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5822.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5823.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5824.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5825.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5826.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5827.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5828.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5829.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5830.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5831.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    },
+    {
+        "name": "Fuchsia (Crayola)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5832.png",
+        "color": "#c154c1",
+        "uri": "fuchsia_crayola"
+    }
+]

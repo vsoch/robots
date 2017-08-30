@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14275.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14276.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14277.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14278.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14279.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot14280.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot14281.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot14282.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot14283.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot14284.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot14285.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot14286.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot14287.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14288.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14289.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14290.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14291.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    },
+    {
+        "name": "Tumbleweed",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14292.png",
+        "color": "#deaa88",
+        "uri": "tumbleweed"
+    }
+]

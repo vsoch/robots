@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9001.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9002.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9003.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9004.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9005.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9006.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9007.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9008.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9009.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9010.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9011.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9012.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9013.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9014.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9015.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9016.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9017.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    },
+    {
+        "name": "Medium Vermilion",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9018.png",
+        "color": "#d9603b",
+        "uri": "medium_vermilion"
+    }
+]

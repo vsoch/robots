@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10711.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10712.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10713.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10714.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10715.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10716.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10717.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10718.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10719.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10720.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10721.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10722.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10723.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10724.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10725.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10726.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10727.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    },
+    {
+        "name": "Pastel Violet",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10728.png",
+        "color": "#cb99c9",
+        "uri": "pastel_violet"
+    }
+]

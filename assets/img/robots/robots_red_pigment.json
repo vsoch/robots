@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11989.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11990.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11991.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11992.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11993.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11994.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11995.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11996.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11997.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11998.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11999.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12000.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12001.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12002.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12003.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12004.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12005.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    },
+    {
+        "name": "Red (Pigment)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12006.png",
+        "color": "#ed1c24",
+        "uri": "red_pigment"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2413.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2414.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2415.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2416.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2417.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2418.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2419.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2420.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2421.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2422.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2423.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2424.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2425.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2426.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2427.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2428.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2429.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    },
+    {
+        "name": "Carnelian",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2430.png",
+        "color": "#b31b1b",
+        "uri": "carnelian"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5473.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5474.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5475.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5476.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5477.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5478.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5479.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5480.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5481.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5482.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5483.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5484.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5485.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5486.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5487.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5488.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5489.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    },
+    {
+        "name": "Firebrick",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5490.png",
+        "color": "#b22222",
+        "uri": "firebrick"
+    }
+]

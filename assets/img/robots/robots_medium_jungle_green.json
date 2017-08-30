@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8749.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8750.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8751.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8752.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8753.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8754.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8755.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8756.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8757.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8758.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8759.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8760.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8761.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8762.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8763.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8764.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8765.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    },
+    {
+        "name": "Medium Jungle Green",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8766.png",
+        "color": "#1c352d",
+        "uri": "medium_jungle_green"
+    }
+]

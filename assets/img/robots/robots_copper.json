@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3205.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3206.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3207.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3208.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3209.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3210.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3211.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3212.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3213.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3214.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3215.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3216.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3217.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3218.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3219.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3220.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3221.png",
+        "color": "#b87333",
+        "uri": "copper"
+    },
+    {
+        "name": "Copper",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3222.png",
+        "color": "#b87333",
+        "uri": "copper"
+    }
+]

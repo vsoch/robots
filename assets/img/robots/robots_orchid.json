@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9955.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9956.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9957.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9958.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9959.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9960.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9961.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9962.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9963.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9964.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9965.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9966.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9967.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9968.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9969.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9970.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9971.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    },
+    {
+        "name": "Orchid",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9972.png",
+        "color": "#da70d6",
+        "uri": "orchid"
+    }
+]

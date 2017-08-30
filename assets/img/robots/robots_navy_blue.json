@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9487.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9488.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9489.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9490.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9491.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9492.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9493.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9494.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9495.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9496.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9497.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9498.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9499.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9500.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9501.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9502.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9503.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    },
+    {
+        "name": "Navy Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9504.png",
+        "color": "#000080",
+        "uri": "navy_blue"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10009.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10010.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10011.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10012.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10013.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10014.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10015.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10016.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10017.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10018.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10019.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10020.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10021.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10022.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10023.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10024.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10025.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    },
+    {
+        "name": "Outer Space",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10026.png",
+        "color": "#414a4c",
+        "uri": "outer_space"
+    }
+]

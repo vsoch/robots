@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10315.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10316.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10317.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10318.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10319.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10320.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10321.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10322.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10323.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10324.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10325.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10326.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10327.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10328.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10329.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10330.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10331.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    },
+    {
+        "name": "Pale Lavender",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10332.png",
+        "color": "#dcd0ff",
+        "uri": "pale_lavender"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot271.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot272.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot273.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot274.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot275.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot276.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot277.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot278.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot279.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot280.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot281.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot282.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot283.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot284.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot285.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot286.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot287.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    },
+    {
+        "name": "Antique Brass",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot288.png",
+        "color": "#cd9575",
+        "uri": "antique_brass"
+    }
+]

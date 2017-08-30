@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2017.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2018.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2019.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2020.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2021.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2022.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2023.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2024.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2025.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2026.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2027.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2028.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2029.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2030.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2031.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2032.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2033.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    },
+    {
+        "name": "Cadmium Orange",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2034.png",
+        "color": "#ed872d",
+        "uri": "cadmium_orange"
+    }
+]

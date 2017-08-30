@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7219.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7220.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7221.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7222.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7223.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7224.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7225.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7226.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7227.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7228.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7229.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7230.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7231.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7232.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7233.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7234.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7235.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    },
+    {
+        "name": "Ku Crimson",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7236.png",
+        "color": "#e8000d",
+        "uri": "ku_crimson"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1207.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1208.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1209.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1210.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1211.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1212.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1213.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1214.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1215.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1216.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1217.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1218.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1219.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1220.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1221.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1222.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1223.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    },
+    {
+        "name": "Blue (Munsell)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1224.png",
+        "color": "#0093af",
+        "uri": "blue_munsell"
+    }
+]

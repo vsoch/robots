@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14329.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14330.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14331.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14332.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14333.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot14334.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot14335.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot14336.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot14337.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot14338.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot14339.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot14340.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot14341.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14342.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14343.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14344.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14345.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    },
+    {
+        "name": "Turquoise Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14346.png",
+        "color": "#00ffef",
+        "uri": "turquoise_blue"
+    }
+]

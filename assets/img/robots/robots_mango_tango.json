@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8443.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8444.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8445.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8446.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8447.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8448.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8449.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8450.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8451.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8452.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8453.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8454.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8455.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8456.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8457.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8458.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8459.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    },
+    {
+        "name": "Mango Tango",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8460.png",
+        "color": "#ff8243",
+        "uri": "mango_tango"
+    }
+]

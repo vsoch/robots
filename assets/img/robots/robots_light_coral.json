@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7705.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7706.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7707.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7708.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7709.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7710.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7711.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7712.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7713.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7714.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7715.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7716.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7717.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7718.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7719.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7720.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7721.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    },
+    {
+        "name": "Light Coral",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7722.png",
+        "color": "#f08080",
+        "uri": "light_coral"
+    }
+]

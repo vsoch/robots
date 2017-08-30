@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot973.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot974.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot975.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot976.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot977.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot978.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot979.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot980.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot981.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot982.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot983.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot984.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot985.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot986.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot987.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot988.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot989.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    },
+    {
+        "name": "Black Bean",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot990.png",
+        "color": "#3d0c02",
+        "uri": "black_bean"
+    }
+]

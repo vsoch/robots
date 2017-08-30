@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13645.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13646.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13647.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13648.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13649.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13650.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13651.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13652.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13653.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13654.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13655.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13656.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13657.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot13658.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot13659.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot13660.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot13661.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    },
+    {
+        "name": "Stormcloud",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot13662.png",
+        "color": "#4f666a",
+        "uri": "stormcloud"
+    }
+]

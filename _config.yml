@@ -1,0 +1,27 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: ROBOTS
+description: "The Singularity Robots are ready for fun!"
+baseurl: "/robots" #important: start with /
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+# Making projects separate from posts
+collections:
+  questions:
+    output: true
+    permalink: /questions/:title/
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: twitter
+    url: https://www.twitter.com/vsoch
+
+about: "The Robots are a fun project for Singularity Hub and Registry, by @vsoch."

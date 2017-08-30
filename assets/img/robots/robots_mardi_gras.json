@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8479.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8480.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8481.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8482.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8483.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8484.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8485.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8486.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8487.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8488.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8489.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8490.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8491.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8492.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8493.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8494.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8495.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    },
+    {
+        "name": "Mardi Gras",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8496.png",
+        "color": "#880085",
+        "uri": "mardi_gras"
+    }
+]

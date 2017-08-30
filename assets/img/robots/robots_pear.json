@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10873.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10874.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10875.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10876.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10877.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10878.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10879.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10880.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10881.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10882.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10883.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10884.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10885.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10886.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10887.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10888.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10889.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    },
+    {
+        "name": "Pear",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10890.png",
+        "color": "#d1e231",
+        "uri": "pear"
+    }
+]

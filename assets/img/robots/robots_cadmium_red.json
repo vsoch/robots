@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2035.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2036.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2037.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2038.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2039.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2040.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2041.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2042.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2043.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2044.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2045.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2046.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2047.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2048.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2049.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2050.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2051.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    },
+    {
+        "name": "Cadmium Red",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2052.png",
+        "color": "#e30022",
+        "uri": "cadmium_red"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2143.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2144.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2145.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2146.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2147.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2148.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2149.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2150.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2151.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2152.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2153.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2154.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2155.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2156.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2157.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2158.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2159.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    },
+    {
+        "name": "Camel",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2160.png",
+        "color": "#c19a6b",
+        "uri": "camel"
+    }
+]

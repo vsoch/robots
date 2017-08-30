@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12043.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12044.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12045.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12046.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12047.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12048.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12049.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12050.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12051.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12052.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12053.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12054.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12055.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12056.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12057.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12058.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12059.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    },
+    {
+        "name": "Redwood",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12060.png",
+        "color": "#ab4e52",
+        "uri": "redwood"
+    }
+]

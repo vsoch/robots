@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1135.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1136.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1137.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1138.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1139.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1140.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1141.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1142.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1143.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1144.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1145.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1146.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1147.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1148.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1149.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1150.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1151.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    },
+    {
+        "name": "Blue Bell",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1152.png",
+        "color": "#a2a2d0",
+        "uri": "blue_bell"
+    }
+]

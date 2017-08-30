@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12061.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12062.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12063.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12064.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12065.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12066.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12067.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12068.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12069.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12070.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12071.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12072.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12073.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12074.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12075.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12076.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12077.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    },
+    {
+        "name": "Regalia",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12078.png",
+        "color": "#522d80",
+        "uri": "regalia"
+    }
+]

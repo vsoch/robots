@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8299.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8300.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8301.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8302.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8303.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8304.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8305.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8306.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8307.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8308.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8309.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8310.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8311.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8312.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8313.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8314.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8315.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    },
+    {
+        "name": "Magenta (Process)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8316.png",
+        "color": "#ff0090",
+        "uri": "magenta_process"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3457.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3458.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3459.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3460.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3461.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3462.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3463.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3464.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3465.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3466.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3467.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3468.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3469.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3470.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3471.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3472.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3473.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    },
+    {
+        "name": "Cosmic Latte",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3474.png",
+        "color": "#fff8e7",
+        "uri": "cosmic_latte"
+    }
+]

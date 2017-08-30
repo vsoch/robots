@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11917.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11918.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11919.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11920.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11921.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11922.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11923.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11924.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11925.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11926.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11927.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11928.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11929.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11930.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11931.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11932.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11933.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    },
+    {
+        "name": "Red Devil",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11934.png",
+        "color": "#860111",
+        "uri": "red_devil"
+    }
+]

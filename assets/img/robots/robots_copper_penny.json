@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3241.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3242.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3243.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3244.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3245.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3246.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3247.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3248.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3249.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3250.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3251.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3252.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3253.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3254.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3255.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3256.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3257.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    },
+    {
+        "name": "Copper Penny",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3258.png",
+        "color": "#ad6f69",
+        "uri": "copper_penny"
+    }
+]

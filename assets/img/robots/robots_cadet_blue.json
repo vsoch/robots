@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1963.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1964.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1965.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1966.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1967.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1968.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1969.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1970.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1971.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1972.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1973.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1974.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1975.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1976.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1977.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1978.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1979.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    },
+    {
+        "name": "Cadet Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1980.png",
+        "color": "#5f9ea0",
+        "uri": "cadet_blue"
+    }
+]

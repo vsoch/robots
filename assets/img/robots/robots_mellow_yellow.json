@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9055.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9056.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9057.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9058.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9059.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9060.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9061.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9062.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9063.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9064.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9065.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9066.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9067.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9068.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9069.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9070.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9071.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    },
+    {
+        "name": "Mellow Yellow",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9072.png",
+        "color": "#f8de7e",
+        "uri": "mellow_yellow"
+    }
+]

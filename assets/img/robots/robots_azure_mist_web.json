@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot631.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot632.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot633.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot634.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot635.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot636.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot637.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot638.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot639.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot640.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot641.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot642.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot643.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot644.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot645.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot646.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot647.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    },
+    {
+        "name": "Azure Mist/Web",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot648.png",
+        "color": "#f0ffff",
+        "uri": "azure_mist_web"
+    }
+]

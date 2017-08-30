@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12457.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12458.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12459.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12460.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12461.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12462.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12463.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12464.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12465.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12466.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12467.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12468.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12469.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12470.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12471.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12472.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12473.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    },
+    {
+        "name": "Rosy Brown",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12474.png",
+        "color": "#bc8f8f",
+        "uri": "rosy_brown"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot15463.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot15464.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot15465.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot15466.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot15467.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot15468.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot15469.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot15470.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot15471.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot15472.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot15473.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot15474.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot15475.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot15476.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15477.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot15478.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot15479.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    },
+    {
+        "name": "Yellow (Ncs)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot15480.png",
+        "color": "#ffd300",
+        "uri": "yellow_ncs"
+    }
+]

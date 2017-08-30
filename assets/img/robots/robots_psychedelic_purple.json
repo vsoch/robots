@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11503.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11504.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11505.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11506.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11507.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11508.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11509.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11510.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11511.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11512.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11513.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11514.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11515.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11516.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11517.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11518.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11519.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    },
+    {
+        "name": "Psychedelic Purple",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11520.png",
+        "color": "#df00ff",
+        "uri": "psychedelic_purple"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12007.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12008.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12009.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12010.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12011.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12012.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12013.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12014.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12015.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12016.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12017.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12018.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12019.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12020.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12021.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12022.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12023.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    },
+    {
+        "name": "Red (Ryb)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12024.png",
+        "color": "#fe2712",
+        "uri": "red_ryb"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7849.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7850.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7851.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7852.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7853.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7854.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7855.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7856.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7857.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7858.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7859.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7860.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7861.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7862.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7863.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7864.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7865.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    },
+    {
+        "name": "Light Khaki",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7866.png",
+        "color": "#f0e68c",
+        "uri": "light_khaki"
+    }
+]

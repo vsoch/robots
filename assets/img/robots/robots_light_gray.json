@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7813.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7814.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7815.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7816.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7817.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7818.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7819.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7820.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7821.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7822.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7823.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7824.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7825.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7826.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7827.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7828.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7829.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    },
+    {
+        "name": "Light Gray",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7830.png",
+        "color": "#d3d3d3",
+        "uri": "light_gray"
+    }
+]

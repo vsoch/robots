@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6535.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6536.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6537.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6538.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6539.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6540.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6541.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6542.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6543.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6544.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6545.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6546.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6547.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6548.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6549.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6550.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6551.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    },
+    {
+        "name": "Heliotrope",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6552.png",
+        "color": "#df73ff",
+        "uri": "heliotrope"
+    }
+]

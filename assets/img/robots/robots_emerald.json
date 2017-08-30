@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5239.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5240.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5241.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5242.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5243.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5244.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5245.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5246.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5247.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5248.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5249.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5250.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5251.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5252.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5253.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5254.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5255.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    },
+    {
+        "name": "Emerald",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5256.png",
+        "color": "#50c878",
+        "uri": "emerald"
+    }
+]

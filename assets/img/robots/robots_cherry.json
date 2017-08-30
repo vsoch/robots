@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2827.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2828.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2829.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2830.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2831.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2832.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2833.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2834.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2835.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2836.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2837.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2838.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2839.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2840.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2841.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2842.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2843.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    },
+    {
+        "name": "Cherry",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2844.png",
+        "color": "#de3163",
+        "uri": "cherry"
+    }
+]

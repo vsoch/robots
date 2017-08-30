@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14995.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14996.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14997.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14998.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14999.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot15000.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot15001.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot15002.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot15003.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot15004.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot15005.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot15006.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot15007.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot15008.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15009.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot15010.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot15011.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    },
+    {
+        "name": "Violet (Ryb)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot15012.png",
+        "color": "#8601af",
+        "uri": "violet_ryb"
+    }
+]

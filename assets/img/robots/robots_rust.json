@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12727.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12728.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12729.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12730.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12731.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12732.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12733.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12734.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12735.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12736.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12737.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12738.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12739.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12740.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12741.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12742.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12743.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    },
+    {
+        "name": "Rust",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12744.png",
+        "color": "#b7410e",
+        "uri": "rust"
+    }
+]

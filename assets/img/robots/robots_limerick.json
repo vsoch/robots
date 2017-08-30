@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8137.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8138.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8139.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8140.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8141.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8142.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8143.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8144.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8145.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8146.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8147.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8148.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8149.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8150.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8151.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8152.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8153.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    },
+    {
+        "name": "Limerick",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8154.png",
+        "color": "#9dc209",
+        "uri": "limerick"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7615.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7616.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7617.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7618.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7619.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7620.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7621.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7622.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7623.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7624.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7625.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7626.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7627.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7628.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7629.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7630.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7631.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    },
+    {
+        "name": "Licorice",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7632.png",
+        "color": "#1a1110",
+        "uri": "licorice"
+    }
+]

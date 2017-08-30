@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot15121.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot15122.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot15123.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot15124.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot15125.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot15126.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot15127.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot15128.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot15129.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot15130.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot15131.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot15132.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot15133.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot15134.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15135.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot15136.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot15137.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    },
+    {
+        "name": "Vivid Violet",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot15138.png",
+        "color": "#9f00ff",
+        "uri": "vivid_violet"
+    }
+]

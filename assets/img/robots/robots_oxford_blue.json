@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10045.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10046.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10047.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10048.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10049.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10050.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10051.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10052.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10053.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10054.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10055.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10056.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10057.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10058.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10059.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10060.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10061.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    },
+    {
+        "name": "Oxford Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10062.png",
+        "color": "#002147",
+        "uri": "oxford_blue"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4249.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4250.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4251.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4252.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4253.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4254.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4255.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4256.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4257.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4258.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4259.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4260.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4261.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4262.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4263.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4264.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4265.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    },
+    {
+        "name": "Dark Slate Gray",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4266.png",
+        "color": "#2f4f4f",
+        "uri": "dark_slate_gray"
+    }
+]

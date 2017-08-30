@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot595.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot596.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot597.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot598.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot599.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot600.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot601.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot602.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot603.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot604.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot605.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot606.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot607.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot608.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot609.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot610.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot611.png",
+        "color": "#568203",
+        "uri": "avocado"
+    },
+    {
+        "name": "Avocado",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot612.png",
+        "color": "#568203",
+        "uri": "avocado"
+    }
+]

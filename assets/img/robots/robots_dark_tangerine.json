@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4303.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4304.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4305.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4306.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4307.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4308.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4309.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4310.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4311.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4312.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4313.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4314.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4315.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4316.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4317.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4318.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4319.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    },
+    {
+        "name": "Dark Tangerine",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4320.png",
+        "color": "#ffa812",
+        "uri": "dark_tangerine"
+    }
+]

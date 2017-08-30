@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2521.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2522.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2523.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2524.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2525.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2526.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2527.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2528.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2529.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2530.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2531.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2532.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2533.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2534.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2535.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2536.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2537.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    },
+    {
+        "name": "Celadon Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2538.png",
+        "color": "#007ba7",
+        "uri": "celadon_blue"
+    }
+]

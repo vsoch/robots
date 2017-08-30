@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot577.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot578.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot579.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot580.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot581.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot582.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot583.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot584.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot585.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot586.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot587.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot588.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot589.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot590.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot591.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot592.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot593.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    },
+    {
+        "name": "Aurometalsaurus",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot594.png",
+        "color": "#6e7f80",
+        "uri": "aurometalsaurus"
+    }
+]

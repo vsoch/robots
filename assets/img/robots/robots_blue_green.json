@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1189.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1190.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1191.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1192.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1193.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1194.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1195.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1196.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1197.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1198.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1199.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1200.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1201.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1202.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1203.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1204.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1205.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    },
+    {
+        "name": "Blue-Green",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1206.png",
+        "color": "#0d98ba",
+        "uri": "blue_green"
+    }
+]

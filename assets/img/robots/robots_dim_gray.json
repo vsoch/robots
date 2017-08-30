@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4825.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4826.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4827.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4828.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4829.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4830.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4831.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4832.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4833.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4834.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4835.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4836.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4837.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4838.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4839.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4840.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4841.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    },
+    {
+        "name": "Dim Gray",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4842.png",
+        "color": "#696969",
+        "uri": "dim_gray"
+    }
+]

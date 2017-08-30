@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14257.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14258.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14259.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14260.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14261.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot14262.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot14263.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot14264.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot14265.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot14266.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot14267.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot14268.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot14269.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14270.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14271.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14272.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14273.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    },
+    {
+        "name": "Tufts Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14274.png",
+        "color": "#417dc1",
+        "uri": "tufts_blue"
+    }
+]

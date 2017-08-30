@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2323.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2324.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2325.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2326.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2327.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2328.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2329.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2330.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2331.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2332.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2333.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2334.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2335.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2336.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2337.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2338.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2339.png",
+        "color": "#960018",
+        "uri": "carmine"
+    },
+    {
+        "name": "Carmine",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2340.png",
+        "color": "#960018",
+        "uri": "carmine"
+    }
+]

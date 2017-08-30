@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14185.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14186.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14187.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14188.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14189.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot14190.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot14191.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot14192.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot14193.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot14194.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot14195.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot14196.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot14197.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14198.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14199.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14200.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14201.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    },
+    {
+        "name": "Tractor Red",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14202.png",
+        "color": "#fd0e35",
+        "uri": "tractor_red"
+    }
+]

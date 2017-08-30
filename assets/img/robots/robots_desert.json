@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4789.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4790.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4791.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4792.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4793.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4794.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4795.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4796.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4797.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4798.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4799.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4800.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4801.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4802.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4803.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4804.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4805.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    },
+    {
+        "name": "Desert",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4806.png",
+        "color": "#c19a6b",
+        "uri": "desert"
+    }
+]

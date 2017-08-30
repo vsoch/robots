@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2503.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2504.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2505.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2506.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2507.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2508.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2509.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2510.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2511.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2512.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2513.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2514.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2515.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2516.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2517.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2518.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2519.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    },
+    {
+        "name": "Celadon",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2520.png",
+        "color": "#ace1af",
+        "uri": "celadon"
+    }
+]

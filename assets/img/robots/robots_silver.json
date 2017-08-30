@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13321.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13322.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13323.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13324.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13325.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13326.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13327.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13328.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13329.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13330.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13331.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13332.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13333.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot13334.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot13335.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot13336.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot13337.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    },
+    {
+        "name": "Silver",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot13338.png",
+        "color": "#c0c0c0",
+        "uri": "silver"
+    }
+]

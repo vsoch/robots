@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1891.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1892.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1893.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1894.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1895.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1896.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1897.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1898.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1899.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1900.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1901.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1902.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1903.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1904.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1905.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1906.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1907.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    },
+    {
+        "name": "Burnt Umber",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1908.png",
+        "color": "#8a3324",
+        "uri": "burnt_umber"
+    }
+]

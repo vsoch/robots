@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6445.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6446.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6447.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6448.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6449.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6450.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6451.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6452.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6453.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6454.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6455.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6456.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6457.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6458.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6459.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6460.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6461.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    },
+    {
+        "name": "Hansa Yellow",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6462.png",
+        "color": "#e9d66b",
+        "uri": "hansa_yellow"
+    }
+]

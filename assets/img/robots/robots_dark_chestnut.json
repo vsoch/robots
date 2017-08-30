@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3709.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3710.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3711.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3712.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3713.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3714.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3715.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3716.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3717.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3718.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3719.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3720.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3721.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3722.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3723.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3724.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3725.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    },
+    {
+        "name": "Dark Chestnut",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3726.png",
+        "color": "#986960",
+        "uri": "dark_chestnut"
+    }
+]

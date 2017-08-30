@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14455.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14456.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14457.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14458.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14459.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot14460.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot14461.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot14462.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot14463.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot14464.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot14465.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot14466.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot14467.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14468.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14469.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14470.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14471.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    },
+    {
+        "name": "Ube",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14472.png",
+        "color": "#8878c3",
+        "uri": "ube"
+    }
+]

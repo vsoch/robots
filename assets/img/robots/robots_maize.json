@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8371.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8372.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8373.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8374.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8375.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8376.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8377.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8378.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8379.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8380.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8381.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8382.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8383.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8384.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8385.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8386.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8387.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    },
+    {
+        "name": "Maize",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8388.png",
+        "color": "#fbec5d",
+        "uri": "maize"
+    }
+]

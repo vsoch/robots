@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot8461.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot8462.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot8463.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot8464.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot8465.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot8466.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot8467.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8468.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8469.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8470.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8471.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8472.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8473.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8474.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8475.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8476.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8477.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    },
+    {
+        "name": "Mantis",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8478.png",
+        "color": "#74c365",
+        "uri": "mantis"
+    }
+]

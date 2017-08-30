@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12709.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12710.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12711.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12712.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12713.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12714.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12715.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12716.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12717.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12718.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12719.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12720.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12721.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12722.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12723.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12724.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12725.png",
+        "color": "#80461b",
+        "uri": "russet"
+    },
+    {
+        "name": "Russet",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12726.png",
+        "color": "#80461b",
+        "uri": "russet"
+    }
+]

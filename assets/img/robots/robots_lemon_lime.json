@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7597.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7598.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7599.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7600.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7601.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7602.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7603.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7604.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7605.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7606.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7607.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7608.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7609.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7610.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7611.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7612.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7613.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    },
+    {
+        "name": "Lemon Lime",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7614.png",
+        "color": "#e3ff00",
+        "uri": "lemon_lime"
+    }
+]

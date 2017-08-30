@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3961.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3962.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3963.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3964.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3965.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3966.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3967.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3968.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3969.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3970.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3971.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3972.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3973.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3974.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3975.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3976.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3977.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    },
+    {
+        "name": "Dark Olive Green",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3978.png",
+        "color": "#556b2f",
+        "uri": "dark_olive_green"
+    }
+]

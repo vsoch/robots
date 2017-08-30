@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot883.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot884.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot885.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot886.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot887.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot888.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot889.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot890.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot891.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot892.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot893.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot894.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot895.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot896.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot897.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot898.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot899.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    },
+    {
+        "name": "Bisque",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot900.png",
+        "color": "#ffe4c4",
+        "uri": "bisque"
+    }
+]

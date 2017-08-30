@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10423.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10424.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10425.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10426.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10427.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10428.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10429.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10430.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10431.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10432.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10433.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10434.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10435.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10436.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10437.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10438.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10439.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    },
+    {
+        "name": "Pale Silver",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10440.png",
+        "color": "#c9c0bb",
+        "uri": "pale_silver"
+    }
+]

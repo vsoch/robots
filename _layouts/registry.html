@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container mt">
+    <div class="row">
+
+        {% include table.html %}
+
+        <div style="margin-top:25px" class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            <h4>{{ page.title }}</h4>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Registry Details</h4>
+            <div style="padding-bottom:20px" class="hline"></div>
+            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Admin:</b> {{ page.author }}</p>
+            <p><b>Categories:</b> {{ page.categories }}</p>
+            <p><b>Tagged:</b> {{ page.tagged }}</p>
+            <p><b>Institution:</b> {{ page.institution }}</p>
+            <p><b>Website:</b> <a href="{{ page.website }}">{{ page.base }}</a></p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
+	 
+{% include portfolio.html limit=5 %}

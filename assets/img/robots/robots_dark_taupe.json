@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4321.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4322.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4323.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4324.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4325.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4326.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4327.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4328.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4329.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4330.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4331.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4332.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4333.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4334.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4335.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4336.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4337.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    },
+    {
+        "name": "Dark Taupe",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4338.png",
+        "color": "#483c32",
+        "uri": "dark_taupe"
+    }
+]

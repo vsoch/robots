@@ -1,0 +1,30 @@
+<style>
+  .color-grid {
+      cursor:pointer;
+  }
+  .note {
+      color: #999;
+      margin-left:200px;
+   }
+  .color-grid:hover {
+     box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.2);
+  }
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $('.color-grid').hover(function(){
+        var uid = $(this).attr('data-id');
+        var name = $(this).attr('data-name');
+        var color = $(this).attr('data-color');
+        $(".navbar-brand").text('')
+        var spancolor = '<span style="color:' + color + ';">'
+        $(".navbar-brand").append("ROBOTS: " + spancolor  + name + "</span>")
+    })
+    $('.color-grid').click(function(){
+        var uid = $(this).attr('data-id');
+        document.location = "view?id=" + uid;        
+    })
+})
+</script>

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10747.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10748.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10749.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10750.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10751.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10752.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10753.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10754.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10755.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10756.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10757.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10758.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10759.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10760.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10761.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10762.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10763.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    },
+    {
+        "name": "Patriarch",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10764.png",
+        "color": "#800080",
+        "uri": "patriarch"
+    }
+]

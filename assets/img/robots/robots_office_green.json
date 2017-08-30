@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9649.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9650.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9651.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9652.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9653.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9654.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9655.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9656.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9657.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9658.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9659.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9660.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9661.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9662.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9663.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9664.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9665.png",
+        "color": "#008000",
+        "uri": "office_green"
+    },
+    {
+        "name": "Office Green",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9666.png",
+        "color": "#008000",
+        "uri": "office_green"
+    }
+]

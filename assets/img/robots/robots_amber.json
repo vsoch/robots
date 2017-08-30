@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot163.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot164.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot165.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot166.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot167.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot168.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot169.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot170.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot171.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot172.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot173.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot174.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot175.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot176.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot177.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot178.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot179.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    },
+    {
+        "name": "Amber",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot180.png",
+        "color": "#ffbf00",
+        "uri": "amber"
+    }
+]

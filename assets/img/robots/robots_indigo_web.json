@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6841.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6842.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6843.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6844.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6845.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6846.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6847.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6848.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6849.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6850.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6851.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6852.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6853.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6854.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6855.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6856.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6857.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    },
+    {
+        "name": "Indigo (Web)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6858.png",
+        "color": "#4b0082",
+        "uri": "indigo_web"
+    }
+]

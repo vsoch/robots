@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3547.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3548.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3549.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3550.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3551.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3552.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3553.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3554.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3555.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3556.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3557.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3558.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3559.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3560.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3561.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3562.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3563.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    },
+    {
+        "name": "Cyan",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3564.png",
+        "color": "#0ff",
+        "uri": "cyan"
+    }
+]

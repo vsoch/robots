@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot14203.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot14204.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot14205.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot14206.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot14207.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot14208.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot14209.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot14210.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot14211.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot14212.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot14213.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot14214.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot14215.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot14216.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot14217.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot14218.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot14219.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    },
+    {
+        "name": "Trolley Grey",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot14220.png",
+        "color": "#808080",
+        "uri": "trolley_grey"
+    }
+]

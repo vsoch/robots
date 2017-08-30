@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9505.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9506.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9507.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9508.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9509.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9510.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9511.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9512.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9513.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9514.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9515.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9516.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9517.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9518.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9519.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9520.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9521.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    },
+    {
+        "name": "Neon Carrot",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9522.png",
+        "color": "#ffa343",
+        "uri": "neon_carrot"
+    }
+]

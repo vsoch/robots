@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5491.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5492.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5493.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5494.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5495.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5496.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5497.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5498.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5499.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5500.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5501.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5502.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5503.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5504.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5505.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5506.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5507.png",
+        "color": "#e25822",
+        "uri": "flame"
+    },
+    {
+        "name": "Flame",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5508.png",
+        "color": "#e25822",
+        "uri": "flame"
+    }
+]

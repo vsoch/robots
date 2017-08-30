@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot505.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot506.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot507.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot508.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot509.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot510.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot511.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot512.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot513.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot514.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot515.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot516.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot517.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot518.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot519.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot520.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot521.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    },
+    {
+        "name": "Asparagus",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot522.png",
+        "color": "#87a96b",
+        "uri": "asparagus"
+    }
+]

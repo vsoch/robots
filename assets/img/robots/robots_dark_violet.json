@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4375.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4376.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4377.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4378.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4379.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4380.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4381.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4382.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4383.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4384.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4385.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4386.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4387.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4388.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4389.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4390.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4391.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    },
+    {
+        "name": "Dark Violet",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4392.png",
+        "color": "#9400d3",
+        "uri": "dark_violet"
+    }
+]

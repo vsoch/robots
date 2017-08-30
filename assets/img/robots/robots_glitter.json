@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5995.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5996.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5997.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5998.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5999.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6000.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6001.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6002.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6003.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6004.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6005.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6006.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6007.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6008.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6009.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6010.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6011.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    },
+    {
+        "name": "Glitter",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6012.png",
+        "color": "#e6e8fa",
+        "uri": "glitter"
+    }
+]

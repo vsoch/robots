@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12871.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12872.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12873.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12874.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12875.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12876.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12877.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12878.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12879.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12880.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12881.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12882.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12883.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12884.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12885.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12886.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12887.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    },
+    {
+        "name": "Sand",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12888.png",
+        "color": "#c2b280",
+        "uri": "sand"
+    }
+]

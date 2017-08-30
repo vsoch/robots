@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot15193.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot15194.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot15195.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot15196.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot15197.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot15198.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot15199.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot15200.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot15201.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot15202.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot15203.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot15204.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot15205.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot15206.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15207.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot15208.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot15209.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    },
+    {
+        "name": "Wheat",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot15210.png",
+        "color": "#f5deb3",
+        "uri": "wheat"
+    }
+]

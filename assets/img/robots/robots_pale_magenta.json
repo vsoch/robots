@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10333.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10334.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10335.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10336.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10337.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10338.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10339.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10340.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10341.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10342.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10343.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10344.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10345.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10346.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10347.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10348.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10349.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    },
+    {
+        "name": "Pale Magenta",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10350.png",
+        "color": "#f984e5",
+        "uri": "pale_magenta"
+    }
+]

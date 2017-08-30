@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11395.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11396.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11397.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11398.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11399.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11400.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11401.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11402.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11403.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11404.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11405.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11406.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11407.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11408.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11409.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11410.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11411.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    },
+    {
+        "name": "Plum (Web)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11412.png",
+        "color": "#dda0dd",
+        "uri": "plum_web"
+    }
+]

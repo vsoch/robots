@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11467.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11468.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11469.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11470.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11471.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11472.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11473.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11474.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11475.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11476.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11477.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11478.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11479.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11480.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11481.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11482.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11483.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    },
+    {
+        "name": "Prune",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11484.png",
+        "color": "#701c1c",
+        "uri": "prune"
+    }
+]

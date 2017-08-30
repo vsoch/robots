@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1765.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1766.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1767.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1768.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1769.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1770.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1771.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1772.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1773.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1774.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1775.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1776.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1777.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1778.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1779.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1780.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1781.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    },
+    {
+        "name": "Bubbles",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1782.png",
+        "color": "#e7feff",
+        "uri": "bubbles"
+    }
+]

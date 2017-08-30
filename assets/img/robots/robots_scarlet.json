@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13051.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13052.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13053.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13054.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13055.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13056.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13057.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13058.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13059.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13060.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13061.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13062.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13063.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot13064.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot13065.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot13066.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot13067.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    },
+    {
+        "name": "Scarlet",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot13068.png",
+        "color": "#ff2400",
+        "uri": "scarlet"
+    }
+]

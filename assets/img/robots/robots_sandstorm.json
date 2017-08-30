@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12907.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12908.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12909.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12910.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12911.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12912.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12913.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12914.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12915.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12916.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12917.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12918.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12919.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12920.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12921.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12922.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12923.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    },
+    {
+        "name": "Sandstorm",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12924.png",
+        "color": "#ecd540",
+        "uri": "sandstorm"
+    }
+]

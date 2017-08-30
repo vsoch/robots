@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13663.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13664.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13665.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13666.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13667.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13668.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13669.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13670.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13671.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13672.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13673.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13674.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13675.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot13676.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot13677.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot13678.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot13679.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    },
+    {
+        "name": "Straw",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot13680.png",
+        "color": "#e4d96f",
+        "uri": "straw"
+    }
+]

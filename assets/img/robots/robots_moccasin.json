@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9217.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9218.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9219.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9220.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9221.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9222.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9223.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9224.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9225.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9226.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9227.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9228.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9229.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9230.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9231.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9232.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9233.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    },
+    {
+        "name": "Moccasin",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9234.png",
+        "color": "#faebd7",
+        "uri": "moccasin"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5275.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5276.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5277.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5278.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5279.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5280.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5281.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5282.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5283.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5284.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5285.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5286.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5287.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5288.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5289.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5290.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5291.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    },
+    {
+        "name": "Eton Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5292.png",
+        "color": "#96c8a2",
+        "uri": "eton_blue"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot12835.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot12836.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot12837.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot12838.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot12839.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot12840.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot12841.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot12842.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot12843.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot12844.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot12845.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot12846.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot12847.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot12848.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot12849.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot12850.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot12851.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    },
+    {
+        "name": "Salmon",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot12852.png",
+        "color": "#ff8c69",
+        "uri": "salmon"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2629.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2630.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2631.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2632.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2633.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2634.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2635.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2636.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2637.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2638.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2639.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2640.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2641.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2642.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2643.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2644.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2645.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    },
+    {
+        "name": "Cerulean",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2646.png",
+        "color": "#007ba7",
+        "uri": "cerulean"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1531.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1532.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1533.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1534.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1535.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1536.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1537.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1538.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1539.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1540.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1541.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1542.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1543.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1544.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1545.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1546.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1547.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    },
+    {
+        "name": "Bright Lavender",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1548.png",
+        "color": "#bf94e4",
+        "uri": "bright_lavender"
+    }
+]

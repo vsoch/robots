@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6463.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6464.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6465.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6466.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6467.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6468.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6469.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6470.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6471.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6472.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6473.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6474.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6475.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6476.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6477.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6478.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6479.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    },
+    {
+        "name": "Harlequin",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6480.png",
+        "color": "#3fff00",
+        "uri": "harlequin"
+    }
+]

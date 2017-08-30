@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot15031.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot15032.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot15033.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot15034.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot15035.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot15036.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot15037.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot15038.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot15039.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot15040.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot15041.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot15042.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot15043.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot15044.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15045.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot15046.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot15047.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    },
+    {
+        "name": "Viridian",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot15048.png",
+        "color": "#40826d",
+        "uri": "viridian"
+    }
+]

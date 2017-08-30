@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1117.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1118.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1119.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1120.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1121.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1122.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1123.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1124.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1125.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1126.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1127.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1128.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1129.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1130.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1131.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1132.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1133.png",
+        "color": "#00f",
+        "uri": "blue"
+    },
+    {
+        "name": "Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1134.png",
+        "color": "#00f",
+        "uri": "blue"
+    }
+]

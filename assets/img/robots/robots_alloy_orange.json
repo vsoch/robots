@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot109.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot110.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot111.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot112.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot113.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot114.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot115.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot116.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot117.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot118.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot119.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot120.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot121.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot122.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot123.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot124.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot125.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    },
+    {
+        "name": "Alloy Orange",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot126.png",
+        "color": "#c46210",
+        "uri": "alloy_orange"
+    }
+]

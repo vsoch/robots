@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1945.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1946.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1947.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1948.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1949.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1950.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1951.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1952.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1953.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1954.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1955.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1956.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1957.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1958.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1959.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1960.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1961.png",
+        "color": "#536872",
+        "uri": "cadet"
+    },
+    {
+        "name": "Cadet",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1962.png",
+        "color": "#536872",
+        "uri": "cadet"
+    }
+]

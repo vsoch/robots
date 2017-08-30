@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1045.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1046.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1047.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1048.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1049.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1050.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1051.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1052.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1053.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1054.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1055.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1056.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1057.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1058.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1059.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1060.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1061.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    },
+    {
+        "name": "Blast-Off Bronze",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1062.png",
+        "color": "#a57164",
+        "uri": "blast_off_bronze"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1909.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1910.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1911.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1912.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1913.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1914.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1915.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1916.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1917.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1918.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1919.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1920.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1921.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1922.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1923.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1924.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1925.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    },
+    {
+        "name": "Byzantine",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1926.png",
+        "color": "#bd33a4",
+        "uri": "byzantine"
+    }
+]

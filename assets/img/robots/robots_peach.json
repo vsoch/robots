@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot10783.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot10784.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot10785.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot10786.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot10787.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot10788.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot10789.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot10790.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot10791.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot10792.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot10793.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot10794.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot10795.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot10796.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot10797.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot10798.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot10799.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    },
+    {
+        "name": "Peach",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot10800.png",
+        "color": "#ffe5b4",
+        "uri": "peach"
+    }
+]

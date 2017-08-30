@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot235.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot236.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot237.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot238.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot239.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot240.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot241.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot242.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot243.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot244.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot245.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot246.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot247.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot248.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot249.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot250.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot251.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    },
+    {
+        "name": "Android Green",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot252.png",
+        "color": "#a4c639",
+        "uri": "android_green"
+    }
+]

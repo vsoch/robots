@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7993.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7994.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7995.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7996.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7997.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7998.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7999.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot8000.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot8001.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot8002.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot8003.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot8004.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot8005.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot8006.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot8007.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot8008.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot8009.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    },
+    {
+        "name": "Light Slate Gray",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot8010.png",
+        "color": "#789",
+        "uri": "light_slate_gray"
+    }
+]

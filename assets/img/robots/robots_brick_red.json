@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1477.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1478.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1479.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1480.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1481.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1482.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1483.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1484.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1485.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1486.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1487.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1488.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1489.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1490.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1491.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1492.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1493.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    },
+    {
+        "name": "Brick Red",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1494.png",
+        "color": "#cb4154",
+        "uri": "brick_red"
+    }
+]

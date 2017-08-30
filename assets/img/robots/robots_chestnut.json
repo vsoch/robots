@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2863.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2864.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2865.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2866.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2867.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2868.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2869.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2870.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2871.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2872.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2873.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2874.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2875.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2876.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2877.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2878.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2879.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    },
+    {
+        "name": "Chestnut",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2880.png",
+        "color": "#cd5c5c",
+        "uri": "chestnut"
+    }
+]

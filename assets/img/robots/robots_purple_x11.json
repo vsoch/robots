@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11665.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11666.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11667.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11668.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11669.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11670.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11671.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11672.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11673.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11674.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11675.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11676.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11677.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11678.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11679.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11680.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11681.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    },
+    {
+        "name": "Purple (X11)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11682.png",
+        "color": "#a020f0",
+        "uri": "purple_x11"
+    }
+]

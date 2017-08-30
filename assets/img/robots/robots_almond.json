@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot127.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot128.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot129.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot130.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot131.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot132.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot133.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot134.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot135.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot136.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot137.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot138.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot139.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot140.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot141.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot142.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot143.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    },
+    {
+        "name": "Almond",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot144.png",
+        "color": "#efdecd",
+        "uri": "almond"
+    }
+]

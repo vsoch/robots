@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6193.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6194.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6195.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6196.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6197.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6198.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6199.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6200.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6201.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6202.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6203.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6204.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6205.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6206.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6207.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6208.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6209.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    },
+    {
+        "name": "Gray (X11 Gray)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6210.png",
+        "color": "#bebebe",
+        "uri": "gray_x11_gray"
+    }
+]

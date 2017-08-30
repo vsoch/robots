@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1927.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1928.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1929.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1930.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1931.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1932.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1933.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1934.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1935.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1936.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1937.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1938.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1939.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1940.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1941.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1942.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1943.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    },
+    {
+        "name": "Byzantium",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1944.png",
+        "color": "#702963",
+        "uri": "byzantium"
+    }
+]

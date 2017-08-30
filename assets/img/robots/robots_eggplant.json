@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4987.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4988.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4989.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4990.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4991.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4992.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4993.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4994.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4995.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4996.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4997.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4998.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4999.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5000.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5001.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5002.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5003.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    },
+    {
+        "name": "Eggplant",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5004.png",
+        "color": "#614051",
+        "uri": "eggplant"
+    }
+]

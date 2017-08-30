@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1747.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1748.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1749.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1750.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1751.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1752.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1753.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1754.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1755.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1756.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1757.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1758.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1759.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1760.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1761.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1762.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1763.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    },
+    {
+        "name": "Bubble Gum",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1764.png",
+        "color": "#ffc1cc",
+        "uri": "bubble_gum"
+    }
+]

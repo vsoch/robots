@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot217.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot218.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot219.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot220.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot221.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot222.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot223.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot224.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot225.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot226.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot227.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot228.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot229.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot230.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot231.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot232.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot233.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    },
+    {
+        "name": "Amethyst",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot234.png",
+        "color": "#96c",
+        "uri": "amethyst"
+    }
+]

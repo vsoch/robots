@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7507.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7508.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7509.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7510.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7511.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7512.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7513.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7514.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7515.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7516.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7517.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7518.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7519.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7520.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7521.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7522.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7523.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    },
+    {
+        "name": "Lavender Rose",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7524.png",
+        "color": "#fba0e3",
+        "uri": "lavender_rose"
+    }
+]

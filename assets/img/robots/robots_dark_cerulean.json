@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3691.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3692.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3693.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3694.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3695.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3696.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3697.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3698.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3699.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3700.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3701.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3702.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3703.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3704.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3705.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3706.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3707.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    },
+    {
+        "name": "Dark Cerulean",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3708.png",
+        "color": "#08457e",
+        "uri": "dark_cerulean"
+    }
+]

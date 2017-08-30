@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot5005.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot5006.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot5007.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot5008.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot5009.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot5010.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot5011.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot5012.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot5013.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot5014.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot5015.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot5016.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot5017.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot5018.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot5019.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot5020.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot5021.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    },
+    {
+        "name": "Eggshell",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot5022.png",
+        "color": "#f0ead6",
+        "uri": "eggshell"
+    }
+]

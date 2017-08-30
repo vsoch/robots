@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot181.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot182.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot183.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot184.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot185.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot186.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot187.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot188.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot189.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot190.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot191.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot192.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot193.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot194.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot195.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot196.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot197.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    },
+    {
+        "name": "Amber (Sae/Ece)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot198.png",
+        "color": "#ff7e00",
+        "uri": "amber_sae_ece"
+    }
+]

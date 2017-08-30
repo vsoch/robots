@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3079.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3080.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3081.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3082.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3083.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3084.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3085.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3086.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3087.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3088.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3089.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3090.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3091.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3092.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3093.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3094.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3095.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    },
+    {
+        "name": "Cobalt",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3096.png",
+        "color": "#0047ab",
+        "uri": "cobalt"
+    }
+]

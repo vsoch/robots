@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot37.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot38.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot39.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot40.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot41.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot42.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot43.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot44.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot45.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot46.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot47.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot48.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot49.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot50.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot51.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot52.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot53.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    },
+    {
+        "name": "Air Superiority Blue",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot54.png",
+        "color": "#72a0c1",
+        "uri": "air_superiority_blue"
+    }
+]

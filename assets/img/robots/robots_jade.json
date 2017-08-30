@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot7003.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot7004.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot7005.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot7006.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot7007.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot7008.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot7009.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot7010.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot7011.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot7012.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot7013.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot7014.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot7015.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot7016.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot7017.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot7018.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot7019.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    },
+    {
+        "name": "Jade",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot7020.png",
+        "color": "#00a86b",
+        "uri": "jade"
+    }
+]

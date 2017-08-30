@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9811.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9812.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9813.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9814.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9815.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9816.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9817.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9818.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9819.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9820.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9821.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9822.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9823.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9824.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9825.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9826.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9827.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    },
+    {
+        "name": "Olivine",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9828.png",
+        "color": "#9ab973",
+        "uri": "olivine"
+    }
+]

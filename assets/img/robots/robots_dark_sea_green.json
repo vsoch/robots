@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot4195.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot4196.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot4197.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot4198.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot4199.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot4200.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot4201.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot4202.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot4203.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot4204.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot4205.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot4206.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot4207.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot4208.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot4209.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot4210.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot4211.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    },
+    {
+        "name": "Dark Sea Green",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot4212.png",
+        "color": "#8fbc8f",
+        "uri": "dark_sea_green"
+    }
+]

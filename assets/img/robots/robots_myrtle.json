@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9397.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9398.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9399.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9400.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9401.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9402.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9403.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9404.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9405.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9406.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9407.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9408.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9409.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9410.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9411.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9412.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9413.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    },
+    {
+        "name": "Myrtle",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9414.png",
+        "color": "#21421e",
+        "uri": "myrtle"
+    }
+]

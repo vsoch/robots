@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot15445.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot15446.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot15447.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot15448.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot15449.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot15450.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot15451.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot15452.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot15453.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot15454.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot15455.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot15456.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot15457.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot15458.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot15459.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot15460.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot15461.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    },
+    {
+        "name": "Yellow (Munsell)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot15462.png",
+        "color": "#efcc00",
+        "uri": "yellow_munsell"
+    }
+]

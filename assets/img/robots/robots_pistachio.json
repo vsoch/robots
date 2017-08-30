@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot11341.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot11342.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot11343.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot11344.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot11345.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot11346.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot11347.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot11348.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot11349.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot11350.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot11351.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot11352.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot11353.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot11354.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot11355.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot11356.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot11357.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    },
+    {
+        "name": "Pistachio",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot11358.png",
+        "color": "#93c572",
+        "uri": "pistachio"
+    }
+]

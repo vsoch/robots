@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot3601.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot3602.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot3603.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot3604.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot3605.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot3606.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot3607.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot3608.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot3609.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot3610.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot3611.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot3612.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot3613.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot3614.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot3615.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot3616.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot3617.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    },
+    {
+        "name": "Dandelion",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot3618.png",
+        "color": "#f0e130",
+        "uri": "dandelion"
+    }
+]

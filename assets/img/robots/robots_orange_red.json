@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9901.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9902.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9903.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9904.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9905.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9906.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9907.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9908.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9909.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9910.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9911.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9912.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9913.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9914.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9915.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9916.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9917.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    },
+    {
+        "name": "Orange-Red",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9918.png",
+        "color": "#ff4500",
+        "uri": "orange_red"
+    }
+]

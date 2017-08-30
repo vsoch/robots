@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2287.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2288.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2289.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2290.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2291.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2292.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2293.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2294.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2295.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2296.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2297.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2298.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2299.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2300.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2301.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2302.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2303.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    },
+    {
+        "name": "Cardinal",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2304.png",
+        "color": "#c41e3a",
+        "uri": "cardinal"
+    }
+]

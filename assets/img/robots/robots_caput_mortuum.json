@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot2269.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot2270.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot2271.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot2272.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot2273.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot2274.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot2275.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot2276.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot2277.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot2278.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot2279.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot2280.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot2281.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot2282.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot2283.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot2284.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot2285.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    },
+    {
+        "name": "Caput Mortuum",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot2286.png",
+        "color": "#592720",
+        "uri": "caput_mortuum"
+    }
+]

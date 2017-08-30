@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6499.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6500.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6501.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6502.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6503.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6504.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6505.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6506.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6507.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6508.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6509.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6510.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6511.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6512.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6513.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6514.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6515.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    },
+    {
+        "name": "Harvest Gold",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6516.png",
+        "color": "#da9100",
+        "uri": "harvest_gold"
+    }
+]

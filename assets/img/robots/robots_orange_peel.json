@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot9883.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot9884.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot9885.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot9886.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot9887.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot9888.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot9889.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot9890.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot9891.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot9892.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot9893.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot9894.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot9895.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot9896.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot9897.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot9898.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot9899.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    },
+    {
+        "name": "Orange Peel",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot9900.png",
+        "color": "#ff9f00",
+        "uri": "orange_peel"
+    }
+]

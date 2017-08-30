@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot13501.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot13502.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot13503.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot13504.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot13505.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot13506.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot13507.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot13508.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot13509.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot13510.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot13511.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot13512.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot13513.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot13514.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot13515.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot13516.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot13517.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    },
+    {
+        "name": "Snow",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot13518.png",
+        "color": "#fffafa",
+        "uri": "snow"
+    }
+]

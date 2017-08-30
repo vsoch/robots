@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot1243.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot1244.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot1245.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot1246.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot1247.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot1248.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot1249.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot1250.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot1251.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot1252.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot1253.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot1254.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot1255.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot1256.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot1257.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot1258.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot1259.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    },
+    {
+        "name": "Blue (Pigment)",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot1260.png",
+        "color": "#339",
+        "uri": "blue_pigment"
+    }
+]

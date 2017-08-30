@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot3.png",
+        "url": "assets/img/robots/robot6931.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot8.png",
+        "url": "assets/img/robots/robot6932.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot14.png",
+        "url": "assets/img/robots/robot6933.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot11.png",
+        "url": "assets/img/robots/robot6934.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot18.png",
+        "url": "assets/img/robots/robot6935.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot9.png",
+        "url": "assets/img/robots/robot6936.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot10.png",
+        "url": "assets/img/robots/robot6937.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot7.png",
+        "url": "assets/img/robots/robot6938.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot15.png",
+        "url": "assets/img/robots/robot6939.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot6.png",
+        "url": "assets/img/robots/robot6940.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot1.png",
+        "url": "assets/img/robots/robot6941.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot12.png",
+        "url": "assets/img/robots/robot6942.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot2.png",
+        "url": "assets/img/robots/robot6943.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot16.png",
+        "url": "assets/img/robots/robot6944.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot4.png",
+        "url": "assets/img/robots/robot6945.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot5.png",
+        "url": "assets/img/robots/robot6946.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot19.png",
+        "url": "assets/img/robots/robot6947.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    },
+    {
+        "name": "Iris",
+        "base": "assets/img/robots/bases/robot17.png",
+        "url": "assets/img/robots/robot6948.png",
+        "color": "#5a4fcf",
+        "uri": "iris"
+    }
+]
